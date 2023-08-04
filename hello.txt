@@ -1,1 +1,11 @@
-This is text aobut the program
+This is a dice generator program.
+The user will be able to pick form two different dice.
+They can choose a 6 face dice or a 10 face dice.
+Once they choose the dice, they will click roll.
+The program will display a random number from 1 - 6 or 1 - 10 depending which dice they choose.
+
+Functions:
+I will need to have two dice options D6 or D10.
+I will need a button to roll the selected dice.
+I will need a display of the random number.
+I will need a function to determine the right number generator depending on dice selected.
